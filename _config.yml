@@ -1,0 +1,9 @@
+title: おりんりんブログ
+email: nyaa@orinr.in
+description: >
+  A pointless blog about pointless things.
+baseurl: ""
+url: "http://blog.orinr.in"
+twitter_username: SupremeBogus
+markdown: kramdown 
+destination: ../orinrin.github.io
