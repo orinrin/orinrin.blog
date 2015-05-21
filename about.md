@@ -12,7 +12,9 @@ I mostly blog about arbitrary games and music, but on occasion I'll create somet
 
 This blog is generated using jekyll and hosted on GitHub.  Static blogs are pretty cool.  Feel free to contact me if you ever need help setting one up~
 
-PSO2とBEMANIをブログします、日本語でおｋ
+無作為にPSO2とBEMANIをブログします。
+
+いつも#nihongoと#eigo＠irc.ppirc.netにいます。このチャンネル日本語でおｋ。
 
 [Steam](http://steamcommunity.com/id/SupremeBogus)
 
