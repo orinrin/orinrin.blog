@@ -4,7 +4,7 @@ title: BEMANI
 permalink: /bemani/
 ---
 
-IIDXはSP九段、名前は「BOGA.S」(「TAKA.S」から派生)
+IIDXはSP九段、名前は「BOGA.S」（「TAKA.S」から派生）
 
 SDVXは七段、名前は「ORINRIN」（IRCニックと同じ）
 

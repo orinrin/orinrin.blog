@@ -24,13 +24,13 @@ PSNアカウントは「Bogasu」
 	.pso2-joho{width:200px;}
 	.pso2-taco{width:60px;}
 </style>
-<b class="pso2-dai pso2-text">情報</b>
+<b class="pso2-dai pso2-text">キャラ</b>
 <table cellspacing="2">
 	<thead>
 		<tr>
-			<th class="pso2-taco pso2-text">シップ</th>
-			<th class="pso2-joho pso2-text">キャラ</th>
-			<th class="pso2-taco pso2-text">クラス</th>
+			<th class="pso2-taco pso2-text">鯖</th>
+			<th class="pso2-joho pso2-text">名前</th>
+			<th class="pso2-taco pso2-text">職業</th>
 			<th class="pso2-taco pso2-text">種族</th>
 		</tr>
 	</thead>
@@ -60,9 +60,9 @@ PSNアカウントは「Bogasu」
 <table cellspacing="2">
 	<thead>
 		<tr>
-			<th class="pso2-taco pso2-text">難易度</th>
-			<th class="pso2-taco pso2-text">ナベ１</th>
-			<th class="pso2-taco pso2-text">ナベ２</th>
+			<th class="pso2-taco pso2-text">難易</th>
+			<th class="pso2-taco pso2-text">鍋１</th>
+			<th class="pso2-taco pso2-text">鍋２</th>
 			<th class="pso2-taco pso2-text">リリ</th>
 			<th class="pso2-taco pso2-text">アム</th>
 			<th class="pso2-taco pso2-text">祭壇</th>
