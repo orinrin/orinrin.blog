@@ -1,7 +1,10 @@
-title: おりんりんのブログ
-email: nyaa@orinr.in
-description: 一緒に永遠に眠りましょう～
-baseurl: ""
 url: "http://blog.orinr.in"
-markdown: kramdown 
+baseurl: ""
+source: ""
 destination: ../orinrin.github.io
+title: おりんりんのブログ
+description: 一緒に永遠に眠りましょう～
+email: nyaa@orinr.in
+permalink: /:categories/:year/:month/:day/:title/
+post_dirs: true
+markdown: kramdown 
