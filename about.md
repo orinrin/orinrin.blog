@@ -14,7 +14,7 @@ This blog is generated using jekyll and hosted on GitHub.  Static blogs are pret
 
 無作為にPSO2とBEMANIをブログします。
 
-いつも#nihongoと#eigo＠irc.ppirc.netにいます。このチャンネル日本語でおｋ。
+いつも#nihongoと#eigo@irc.ppirc.netにいます。このチャンネル日本語でおｋ。
 
 [Steam](http://steamcommunity.com/id/SupremeBogus)
 
