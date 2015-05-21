@@ -6,4 +6,7 @@ permalink: /about/
 
 おりんりんランドはじまるよー
 
-<p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS Feed</a></p>
+[Steam](http://steamcommunity.com/id/SupremeBogus)
+[Twitter](https://twitter.com/SupremeBogus)
+[YouTube](https://www.youtube.com/user/NeuBogus)
+[RSS]({{"/feed.xml"|prepend:site.baseurl}})

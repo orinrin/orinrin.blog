@@ -1,9 +1,7 @@
 title: おりんりんブログ
 email: nyaa@orinr.in
-description: >
-  A pointless blog about pointless things.
+description: この世で何もない。さあ、一緒に永遠に眠りましょう～
 baseurl: ""
 url: "http://blog.orinr.in"
-twitter_username: SupremeBogus
 markdown: kramdown 
 destination: ../orinrin.github.io

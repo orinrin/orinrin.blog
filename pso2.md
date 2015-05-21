@@ -4,11 +4,17 @@ title: PSO2
 permalink: /pso2/
 ---
 
-プレイヤーIDは「ボガス」、PSNは「Bogasu」
+プレイヤーIDは「ボガス」
 
-通常に5鯖、でも2鯖はOKw
+PSNアカウントは「Bogasu」
 
-5鯖のチーム名前は「Mizuumi」、2鯖のチームありません
+5鯖のチーム名前は「Mizuumi」
+
+残念ながら2鯖のチームありません
+
+通常に5鯖、でも時々2鯖はOK（外人作戦は冗談じゃないんだよｗ）
+
+10:00～13:00JSTにクラフトする（エクス36とメイカー4あります。要請でOK）
 
 <style>
 	th, td{text-align:center;border: 1px solid black;}
