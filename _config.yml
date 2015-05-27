@@ -5,4 +5,5 @@ title: おりんりんのブログ
 description: 一緒に永遠に眠りましょう～
 permalink: /:categories/:year/:month/:day/:title/
 post_dirs: true
+email: nyaa@orinr.in
 markdown: kramdown 
