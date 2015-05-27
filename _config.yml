@@ -3,7 +3,6 @@ baseurl: ""
 destination: ../orinrin.github.io
 title: おりんりんのブログ
 description: 一緒に永遠に眠りましょう～
-email: ｎｙａａ（ａｔ）ｏｒｉｎｒ.ｉｎ
 permalink: /:categories/:year/:month/:day/:title/
 post_dirs: true
 markdown: kramdown 
