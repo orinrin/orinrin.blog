@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "いい音楽 #3"
+date:   2015-05-30 08:01:10
+categories: music
+---
+
+<style>
+	table{margin:0 auto;}
+	th{text-align:center;border: 1px solid black;width:60px;}
+	td{text-align:center;border: 1px solid black;width:385px;}
+	img{width:450px;}
+	audio{width:450px;}
+	.table-media{border:0;}
+</style>
+<table cellspacing="2">
+	<tbody>
+		<tr>
+			<td class="table-media" colspan="2">
+				<img src="{{site.url}}/media/cover3.jpg">
+			</td>
+		</tr>
+		<tr>
+			<th>Title</th><td>Devotion</td>
+		</tr>
+		<tr>
+			<th>Artist</th><td>void</td>
+		</tr>
+		<tr>
+			<th>Album</th><td>AD:PIANO 3</td>
+		</tr>
+		<tr>
+			<th>Circle</th><td>Diverse System</td>
+		</tr>
+		<tr>
+			<td class="table-media" colspan="2">
+				<audio src="{{site.url}}/media/ongaku3.ogg" controls></audio>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+
+なかなかよいようね～
+
+Shoutouts to void using the same structure on every piano song ever.
