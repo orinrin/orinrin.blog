@@ -18,7 +18,7 @@ PSNアカウントは「Bogasu」
 
 <style>
 	th, td{text-align:center;border: 1px solid black;}
-	.pso2-dai{font-size:32px;}
+	.pso2-dai{font-size:24px;}
 	.pso2-nak{font-size:20px;}
 	.pso2-text{font-family:MS Gothic;}
 	.pso2-joho{width:200px;}
